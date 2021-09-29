@@ -21,6 +21,11 @@ Elliot:86:3.9:
 Sarah:87:3.1:
 ```
 
+# TODO 
+- Add a method that concatenates Tuples
+- Add support for common flat-file formats. 
+- Add additional Complement set operation 
+
 
 
 
